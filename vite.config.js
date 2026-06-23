@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/viteproject-of-reatail-pos-/",     // ← Must match your repo name
+  base: "/viteproject-of-reatail-pos-/",
   build: {
     outDir: "dist",
     sourcemap: true,
